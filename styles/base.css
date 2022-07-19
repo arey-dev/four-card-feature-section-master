@@ -1,0 +1,56 @@
+:root {
+  /* color */
+  --primary-clr-1: hsl(0, 78%, 62%); /* red */
+  --primary-clr-2: hsl(180, 62%, 55%); /* cyan */
+  --primary-clr-3: hsl(34, 97%, 64%); /* orange */
+  --primary-clr-4: hsl(212, 86%, 64%); /* blue */
+  --neutral-clr-1: hsl(234, 12%, 34%); /* very dark blue */
+  --neutral-clr-2: hsl(229, 6%, 66%); /* grayish blue */
+  --neutral-clr-3: hsl(0, 0%, 98%); /* very light gray */
+  
+  /* font */
+  --primary-fnt: 'Poppins', sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--primary-fnt);
+  font-size: 15px;
+  font-weight: 400;
+  height: auto;
+  min-height: 100vh;
+  line-height: 1.5;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: inherit;
+  margin: 0;
+}
+
+p, figure {
+  margin: 0;
+}
+
+/* .sr-only {
+  border: 0 !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  clip-path: inset(50%) !important;
+  -webkit-clip-path: inset(50%) !important;
+  height: 1px !important;
+  width: 1px !important;
+  position: absolute !important;
+  overflow: hidden !important;
+  white-space: nowrap !important;
+  padding: 0 !important;
+  margin: -1px !important;
+} */
