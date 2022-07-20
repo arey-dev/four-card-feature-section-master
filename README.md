@@ -12,7 +12,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -25,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/Screenshot-Frontendmentor-%236.png)
 
 ### Links
 
@@ -42,14 +41,11 @@ Users should be able to:
 
 ### What I learned
 
+This project is a good layout practice for me. At first, I thought it's complicated but it wasn't.
 
 ### Continued development
 
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+I think it's time for me to move forward and take on projects that has full, multisection layout. 
 
 
 ## Author
